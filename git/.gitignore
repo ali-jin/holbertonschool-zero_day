@@ -1,2 +1,2 @@
-# ignore ALL *~ files
-*~
+# ignore all ~ files
+*/*~
